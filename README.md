@@ -1,2 +1,2 @@
 # payway 
-# golang project
+golang project
