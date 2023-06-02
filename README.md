@@ -1,8 +1,5 @@
 # payway 
-<<<<<<< HEAD
 learning by doing
-=======
-golang project
 
 # init go modul
 go mod init toko-go-public
